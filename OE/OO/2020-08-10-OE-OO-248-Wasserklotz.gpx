@@ -1,0 +1,2248 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2020-08-10T14:42:53Z</time>
+    <bounds maxlat="47.724683387205005" maxlon="14.481472950428724" minlat="47.703839018940926" minlon="14.453759863972664" />
+  </metadata>
+
+  <rte>
+    <name>OE/OO-248 "Wasserklotz" 1</name>
+    <extensions>
+      <gpxx:RouteExtension>
+        <gpxx:IsAutoNamed>false</gpxx:IsAutoNamed>
+        <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+      </gpxx:RouteExtension>
+    </extensions>
+    <rtept lat="47.703839018940926" lon="14.457347569987178">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"</name>
+      <cmt>OE/OO-248 "Wasserklotz"</cmt>
+      <desc>OE/OO-248 "Wasserklotz"</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.704074801877141" lon="14.45747958496213">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-1</name>
+      <cmt>OE/OO-248 "Wasserklotz"-1</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-1</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.704286361113191" lon="14.45732862688601">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-2</name>
+      <cmt>OE/OO-248 "Wasserklotz"-2</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-2</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.704472942277789" lon="14.457098040729761">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-3</name>
+      <cmt>OE/OO-248 "Wasserklotz"-3</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-3</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.704640245065093" lon="14.456859324127436">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-4</name>
+      <cmt>OE/OO-248 "Wasserklotz"-4</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-4</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.704821545630693" lon="14.456622200086713">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-5</name>
+      <cmt>OE/OO-248 "Wasserklotz"-5</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-5</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.705006701871753" lon="14.456452466547489">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-6</name>
+      <cmt>OE/OO-248 "Wasserklotz"-6</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-6</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.705195965245366" lon="14.456258760765195">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-7</name>
+      <cmt>OE/OO-248 "Wasserklotz"-7</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-7</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.705395957455039" lon="14.456137642264366">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-8</name>
+      <cmt>OE/OO-248 "Wasserklotz"-8</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-8</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.705596284940839" lon="14.456009985879064">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-9</name>
+      <cmt>OE/OO-248 "Wasserklotz"-9</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-9</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.705790158361197" lon="14.455833379179239">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-10</name>
+      <cmt>OE/OO-248 "Wasserklotz"-10</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-10</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.705995850265026" lon="14.455689461901784">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-11</name>
+      <cmt>OE/OO-248 "Wasserklotz"-11</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-11</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.70617539063096" lon="14.455422246828675">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-12</name>
+      <cmt>OE/OO-248 "Wasserklotz"-12</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-12</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.706369599327445" lon="14.455202054232359">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-13</name>
+      <cmt>OE/OO-248 "Wasserklotz"-13</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-13</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.706585936248302" lon="14.455092921853065">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-14</name>
+      <cmt>OE/OO-248 "Wasserklotz"-14</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-14</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.706850133836269" lon="14.455059813335538">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-15</name>
+      <cmt>OE/OO-248 "Wasserklotz"-15</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-15</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.707081642001867" lon="14.454939952120185">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-16</name>
+      <cmt>OE/OO-248 "Wasserklotz"-16</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-16</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.707278449088335" lon="14.454735768958926">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-17</name>
+      <cmt>OE/OO-248 "Wasserklotz"-17</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-17</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.707493444904685" lon="14.454549355432391">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-18</name>
+      <cmt>OE/OO-248 "Wasserklotz"-18</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-18</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.707708775997162" lon="14.454591935500503">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-19</name>
+      <cmt>OE/OO-248 "Wasserklotz"-19</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-19</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.707943636924028" lon="14.454673491418362">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-20</name>
+      <cmt>OE/OO-248 "Wasserklotz"-20</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-20</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.708180174231529" lon="14.454641388729215">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-21</name>
+      <cmt>OE/OO-248 "Wasserklotz"-21</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-21</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.708387961611152" lon="14.45449311286211">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-22</name>
+      <cmt>OE/OO-248 "Wasserklotz"-22</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-22</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.708528442308307" lon="14.453759863972664">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-23</name>
+      <cmt>OE/OO-248 "Wasserklotz"-23</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-23</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.70876657217741" lon="14.453856842592359">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-24</name>
+      <cmt>OE/OO-248 "Wasserklotz"-24</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-24</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.708992715924978" lon="14.454235201701522">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-25</name>
+      <cmt>OE/OO-248 "Wasserklotz"-25</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-25</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.709190445020795" lon="14.454511217772961">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-26</name>
+      <cmt>OE/OO-248 "Wasserklotz"-26</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-26</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.709397645667195" lon="14.454614399001002">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-27</name>
+      <cmt>OE/OO-248 "Wasserklotz"-27</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-27</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.709636110812426" lon="14.454764937981963">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-28</name>
+      <cmt>OE/OO-248 "Wasserklotz"-28</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-28</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.709916401654482" lon="14.45497490465641">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-29</name>
+      <cmt>OE/OO-248 "Wasserklotz"-29</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-29</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.710174648091197" lon="14.455064088106155">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-30</name>
+      <cmt>OE/OO-248 "Wasserklotz"-30</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-30</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.710370030254126" lon="14.455270282924175">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-31</name>
+      <cmt>OE/OO-248 "Wasserklotz"-31</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-31</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.710612770169973" lon="14.455524086952209">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-32</name>
+      <cmt>OE/OO-248 "Wasserklotz"-32</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-32</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.71087009459734" lon="14.455697927623987">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-33</name>
+      <cmt>OE/OO-248 "Wasserklotz"-33</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-33</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.711086431518197" lon="14.455816950649023">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-34</name>
+      <cmt>OE/OO-248 "Wasserklotz"-34</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-34</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.711315341293812" lon="14.455895656719804">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-35</name>
+      <cmt>OE/OO-248 "Wasserklotz"-35</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-35</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.711506532505155" lon="14.455972518771887">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-36</name>
+      <cmt>OE/OO-248 "Wasserklotz"-36</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-36</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.711725048720837" lon="14.456086680293083">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-37</name>
+      <cmt>OE/OO-248 "Wasserklotz"-37</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-37</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.711912887170911" lon="14.456232022494078">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-38</name>
+      <cmt>OE/OO-248 "Wasserklotz"-38</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-38</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.712100641801953" lon="14.456370826810598">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-39</name>
+      <cmt>OE/OO-248 "Wasserklotz"-39</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-39</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.712327120825648" lon="14.456552546471357">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-40</name>
+      <cmt>OE/OO-248 "Wasserklotz"-40</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-40</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.712532561272383" lon="14.456747006624937">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-41</name>
+      <cmt>OE/OO-248 "Wasserklotz"-41</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-41</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.71271076053381" lon="14.456912381574512">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-42</name>
+      <cmt>OE/OO-248 "Wasserklotz"-42</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-42</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.712916200980544" lon="14.457073481753469">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-43</name>
+      <cmt>OE/OO-248 "Wasserklotz"-43</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-43</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.713105715811253" lon="14.457276072353125">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-44</name>
+      <cmt>OE/OO-248 "Wasserklotz"-44</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-44</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.71324778907001" lon="14.457535408437252">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-45</name>
+      <cmt>OE/OO-248 "Wasserklotz"-45</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-45</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.713391790166497" lon="14.457773035392165">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-46</name>
+      <cmt>OE/OO-248 "Wasserklotz"-46</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-46</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.713554902002215" lon="14.457998257130384">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-47</name>
+      <cmt>OE/OO-248 "Wasserklotz"-47</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-47</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.713713403791189" lon="14.458250049501657">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-48</name>
+      <cmt>OE/OO-248 "Wasserklotz"-48</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-48</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.713887160643935" lon="14.45842606946826">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-49</name>
+      <cmt>OE/OO-248 "Wasserklotz"-49</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-49</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.714078687131405" lon="14.458648189902306">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-50</name>
+      <cmt>OE/OO-248 "Wasserklotz"-50</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-50</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.714212881401181" lon="14.458884056657553">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-51</name>
+      <cmt>OE/OO-248 "Wasserklotz"-51</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-51</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.714458974078298" lon="14.458968043327332">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-52</name>
+      <cmt>OE/OO-248 "Wasserklotz"-52</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-52</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.714616386219859" lon="14.45904515683651">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-53</name>
+      <cmt>OE/OO-248 "Wasserklotz"-53</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-53</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.714727949351072" lon="14.459153534844518">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-54</name>
+      <cmt>OE/OO-248 "Wasserklotz"-54</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-54</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.714985525235534" lon="14.459203071892262">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-55</name>
+      <cmt>OE/OO-248 "Wasserklotz"-55</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-55</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.715219547972083" lon="14.459189660847187">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-56</name>
+      <cmt>OE/OO-248 "Wasserklotz"-56</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-56</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.715470250695944" lon="14.459218829870224">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-57</name>
+      <cmt>OE/OO-248 "Wasserklotz"-57</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-57</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.715736040845513" lon="14.45940775796771">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-58</name>
+      <cmt>OE/OO-248 "Wasserklotz"-58</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-58</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.716020438820124" lon="14.459605906158686">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-59</name>
+      <cmt>OE/OO-248 "Wasserklotz"-59</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-59</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.716327551752329" lon="14.459494929760695">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-60</name>
+      <cmt>OE/OO-248 "Wasserklotz"-60</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-60</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.716621588915586" lon="14.459107518196106">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-61</name>
+      <cmt>OE/OO-248 "Wasserklotz"-61</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-61</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.71676785312593" lon="14.458729745820165">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-62</name>
+      <cmt>OE/OO-248 "Wasserklotz"-62</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-62</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.717263726517558" lon="14.458640813827515">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-63</name>
+      <cmt>OE/OO-248 "Wasserklotz"-63</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-63</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.717416863888502" lon="14.458418022841215">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-64</name>
+      <cmt>OE/OO-248 "Wasserklotz"-64</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-64</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.717647617682815" lon="14.458186849951744">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-65</name>
+      <cmt>OE/OO-248 "Wasserklotz"-65</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-65</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.718032514676452" lon="14.458016781136394">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-66</name>
+      <cmt>OE/OO-248 "Wasserklotz"-66</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-66</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.71824985742569" lon="14.457922652363777">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-67</name>
+      <cmt>OE/OO-248 "Wasserklotz"-67</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-67</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.718609860166907" lon="14.457793906331062">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-68</name>
+      <cmt>OE/OO-248 "Wasserklotz"-68</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-68</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.719028620049357" lon="14.457579245790839">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-69</name>
+      <cmt>OE/OO-248 "Wasserklotz"-69</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-69</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.719300193712115" lon="14.457367854192853">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-70</name>
+      <cmt>OE/OO-248 "Wasserklotz"-70</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-70</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.719591045752168" lon="14.45732275955379">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-71</name>
+      <cmt>OE/OO-248 "Wasserklotz"-71</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-71</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.719989269971848" lon="14.457356203347445">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-72</name>
+      <cmt>OE/OO-248 "Wasserklotz"-72</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-72</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.72028305567801" lon="14.457316473126411">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-73</name>
+      <cmt>OE/OO-248 "Wasserklotz"-73</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-73</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.720530070364475" lon="14.457207173109055">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-74</name>
+      <cmt>OE/OO-248 "Wasserklotz"-74</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-74</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.720898203551769" lon="14.457124611362815">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-75</name>
+      <cmt>OE/OO-248 "Wasserklotz"-75</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-75</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.72105704061687" lon="14.456951189786196">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-76</name>
+      <cmt>OE/OO-248 "Wasserklotz"-76</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-76</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.721115797758102" lon="14.456598060205579">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-77</name>
+      <cmt>OE/OO-248 "Wasserklotz"-77</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-77</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.721446882933378" lon="14.456492029130459">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-78</name>
+      <cmt>OE/OO-248 "Wasserklotz"-78</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-78</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.721688784658909" lon="14.456513822078705">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-79</name>
+      <cmt>OE/OO-248 "Wasserklotz"-79</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-79</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.722019199281931" lon="14.456743067130446">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-80</name>
+      <cmt>OE/OO-248 "Wasserklotz"-80</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-80</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.722161272540689" lon="14.456952027976513">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-81</name>
+      <cmt>OE/OO-248 "Wasserklotz"-81</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-81</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.722322791814804" lon="14.457157803699374">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-82</name>
+      <cmt>OE/OO-248 "Wasserklotz"-82</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-82</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.722434354946017" lon="14.457407249137759">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-83</name>
+      <cmt>OE/OO-248 "Wasserklotz"-83</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-83</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.722552875056863" lon="14.457745961844921">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-84</name>
+      <cmt>OE/OO-248 "Wasserklotz"-84</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-84</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.722535021603107" lon="14.458067240193486">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-85</name>
+      <cmt>OE/OO-248 "Wasserklotz"-85</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-85</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.722571482881904" lon="14.45843294262886">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-86</name>
+      <cmt>OE/OO-248 "Wasserklotz"-86</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-86</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.722656056284904" lon="14.458792107179761">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-87</name>
+      <cmt>OE/OO-248 "Wasserklotz"-87</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-87</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.722900053486228" lon="14.458895036950707">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-88</name>
+      <cmt>OE/OO-248 "Wasserklotz"-88</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-88</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.723191324621439" lon="14.458871902897954">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-89</name>
+      <cmt>OE/OO-248 "Wasserklotz"-89</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-89</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.723446721211076" lon="14.458769140765071">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-90</name>
+      <cmt>OE/OO-248 "Wasserklotz"-90</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-90</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.723670518025756" lon="14.458665959537029">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-91</name>
+      <cmt>OE/OO-248 "Wasserklotz"-91</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-91</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.723892303183675" lon="14.458509385585785">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-92</name>
+      <cmt>OE/OO-248 "Wasserklotz"-92</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-92</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724077459424734" lon="14.458416346460581">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-93</name>
+      <cmt>OE/OO-248 "Wasserklotz"-93</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-93</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724134791642427" lon="14.458506116643548">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-94</name>
+      <cmt>OE/OO-248 "Wasserklotz"-94</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-94</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724351547658443" lon="14.458504607900977">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-95</name>
+      <cmt>OE/OO-248 "Wasserklotz"-95</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-95</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724370406940579" lon="14.458797974511981">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-96</name>
+      <cmt>OE/OO-248 "Wasserklotz"-96</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-96</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724390439689159" lon="14.459145152941346">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-97</name>
+      <cmt>OE/OO-248 "Wasserklotz"-97</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-97</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724387673661113" lon="14.459485206753016">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-98</name>
+      <cmt>OE/OO-248 "Wasserklotz"-98</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-98</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724403096362948" lon="14.459822745993733">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-99</name>
+      <cmt>OE/OO-248 "Wasserklotz"-99</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-99</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724416004493833" lon="14.460165733471513">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-100</name>
+      <cmt>OE/OO-248 "Wasserklotz"-100</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-100</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724430505186319" lon="14.460507966578007">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-101</name>
+      <cmt>OE/OO-248 "Wasserklotz"-101</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-101</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.72444911301136" lon="14.460844835266471">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-102</name>
+      <cmt>OE/OO-248 "Wasserklotz"-102</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-102</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724487334489822" lon="14.46119268424809">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-103</name>
+      <cmt>OE/OO-248 "Wasserklotz"-103</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-103</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724470067769289" lon="14.461529888212681">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-104</name>
+      <cmt>OE/OO-248 "Wasserklotz"-104</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-104</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724467720836401" lon="14.461868684738874">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-105</name>
+      <cmt>OE/OO-248 "Wasserklotz"-105</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-105</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.72464457899332" lon="14.462098767980933">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-106</name>
+      <cmt>OE/OO-248 "Wasserklotz"-106</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-106</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724683387205005" lon="14.462494477629662">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-107</name>
+      <cmt>OE/OO-248 "Wasserklotz"-107</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-107</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724538799375296" lon="14.462778624147177">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-108</name>
+      <cmt>OE/OO-248 "Wasserklotz"-108</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-108</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724468810483813" lon="14.463108368217945">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-109</name>
+      <cmt>OE/OO-248 "Wasserklotz"-109</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-109</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724469900131226" lon="14.463458145037293">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-110</name>
+      <cmt>OE/OO-248 "Wasserklotz"-110</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-110</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724549528211355" lon="14.46378193795681">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-111</name>
+      <cmt>OE/OO-248 "Wasserklotz"-111</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-111</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724539889022708" lon="14.464126937091351">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-112</name>
+      <cmt>OE/OO-248 "Wasserklotz"-112</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-112</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724520778283477" lon="14.464475624263287">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-113</name>
+      <cmt>OE/OO-248 "Wasserklotz"-113</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-113</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724550953134894" lon="14.46481048129499">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-114</name>
+      <cmt>OE/OO-248 "Wasserklotz"-114</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-114</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724597472697496" lon="14.46512714959681">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-115</name>
+      <cmt>OE/OO-248 "Wasserklotz"-115</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-115</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724592862650752" lon="14.465491510927677">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-116</name>
+      <cmt>OE/OO-248 "Wasserklotz"-116</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-116</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724564280360937" lon="14.465820919722319">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-117</name>
+      <cmt>OE/OO-248 "Wasserklotz"-117</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-117</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724520694464445" lon="14.466168098151684">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-118</name>
+      <cmt>OE/OO-248 "Wasserklotz"-118</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-118</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724468475207686" lon="14.466520473361015">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-119</name>
+      <cmt>OE/OO-248 "Wasserklotz"-119</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-119</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724448526278138" lon="14.466857006773353">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-120</name>
+      <cmt>OE/OO-248 "Wasserklotz"-120</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-120</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724436623975635" lon="14.467194462195039">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-121</name>
+      <cmt>OE/OO-248 "Wasserklotz"-121</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-121</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724412735551596" lon="14.467540718615055">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-122</name>
+      <cmt>OE/OO-248 "Wasserklotz"-122</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-122</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724389685317874" lon="14.46786786429584">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-123</name>
+      <cmt>OE/OO-248 "Wasserklotz"-123</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-123</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724316511303186" lon="14.468200458213687">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-124</name>
+      <cmt>OE/OO-248 "Wasserklotz"-124</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-124</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724245013669133" lon="14.468517461791635">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-125</name>
+      <cmt>OE/OO-248 "Wasserklotz"-125</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-125</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724238559603691" lon="14.468848295509815">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-126</name>
+      <cmt>OE/OO-248 "Wasserklotz"-126</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-126</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724173683673143" lon="14.469173010438681">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-127</name>
+      <cmt>OE/OO-248 "Wasserklotz"-127</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-127</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724102018401027" lon="14.469498647376895">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-128</name>
+      <cmt>OE/OO-248 "Wasserklotz"-128</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-128</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724059270694852" lon="14.469856135547161">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-129</name>
+      <cmt>OE/OO-248 "Wasserklotz"-129</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-129</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724069664254785" lon="14.470249330624938">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-130</name>
+      <cmt>OE/OO-248 "Wasserklotz"-130</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-130</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724104532971978" lon="14.470593994483352">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-131</name>
+      <cmt>OE/OO-248 "Wasserklotz"-131</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-131</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724122973158956" lon="14.47093253955245">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-132</name>
+      <cmt>OE/OO-248 "Wasserklotz"-132</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-132</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724137809127569" lon="14.471281142905354">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-133</name>
+      <cmt>OE/OO-248 "Wasserklotz"-133</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-133</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724155327305198" lon="14.47161122225225">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-134</name>
+      <cmt>OE/OO-248 "Wasserklotz"-134</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-134</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724182484671474" lon="14.471945911645889">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-135</name>
+      <cmt>OE/OO-248 "Wasserklotz"-135</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-135</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724213497713208" lon="14.472290491685271">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-136</name>
+      <cmt>OE/OO-248 "Wasserklotz"-136</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-136</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724204109981656" lon="14.472636077553034">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-137</name>
+      <cmt>OE/OO-248 "Wasserklotz"-137</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-137</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724184328690171" lon="14.47298476472497">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-138</name>
+      <cmt>OE/OO-248 "Wasserklotz"-138</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-138</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724213749170303" lon="14.473333284258842">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-139</name>
+      <cmt>OE/OO-248 "Wasserklotz"-139</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-139</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724121464416385" lon="14.473647437989712">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-140</name>
+      <cmt>OE/OO-248 "Wasserklotz"-140</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-140</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724038986489177" lon="14.473959663882852">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-141</name>
+      <cmt>OE/OO-248 "Wasserklotz"-141</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-141</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.723991712555289" lon="14.474275326356292">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-142</name>
+      <cmt>OE/OO-248 "Wasserklotz"-142</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-142</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.723953574895859" lon="14.474616888910532">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-143</name>
+      <cmt>OE/OO-248 "Wasserklotz"-143</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-143</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.723956676200032" lon="14.474963564425707">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-144</name>
+      <cmt>OE/OO-248 "Wasserklotz"-144</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-144</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.724009901285172" lon="14.47524762712419">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-145</name>
+      <cmt>OE/OO-248 "Wasserklotz"-145</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-145</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.723896075040102" lon="14.475538395345211">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-146</name>
+      <cmt>OE/OO-248 "Wasserklotz"-146</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-146</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.723796246573329" lon="14.475779039785266">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-147</name>
+      <cmt>OE/OO-248 "Wasserklotz"-147</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-147</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.723638247698545" lon="14.476019265130162">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-148</name>
+      <cmt>OE/OO-248 "Wasserklotz"-148</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-148</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.723405817523599" lon="14.476258317008615">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-149</name>
+      <cmt>OE/OO-248 "Wasserklotz"-149</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-149</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.723296098411083" lon="14.476560652256012">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-150</name>
+      <cmt>OE/OO-248 "Wasserklotz"-150</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-150</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.723375810310245" lon="14.476828034967184">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-151</name>
+      <cmt>OE/OO-248 "Wasserklotz"-151</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-151</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.723240023478866" lon="14.477125592529774">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-152</name>
+      <cmt>OE/OO-248 "Wasserklotz"-152</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-152</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.723273634910583" lon="14.477475034072995">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-153</name>
+      <cmt>OE/OO-248 "Wasserklotz"-153</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-153</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.723314287140965" lon="14.47759497910738">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-154</name>
+      <cmt>OE/OO-248 "Wasserklotz"-154</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-154</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.723223343491554" lon="14.477845430374146">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-155</name>
+      <cmt>OE/OO-248 "Wasserklotz"-155</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-155</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.723102895542979" lon="14.478176515549421">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-156</name>
+      <cmt>OE/OO-248 "Wasserklotz"-156</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-156</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.723022596910596" lon="14.478700803592801">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-157</name>
+      <cmt>OE/OO-248 "Wasserklotz"-157</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-157</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.723208507522941" lon="14.479080168530345">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-158</name>
+      <cmt>OE/OO-248 "Wasserklotz"-158</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-158</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.72323046810925" lon="14.47949917986989">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-159</name>
+      <cmt>OE/OO-248 "Wasserklotz"-159</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-159</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.72308780811727" lon="14.479851303622127">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-160</name>
+      <cmt>OE/OO-248 "Wasserklotz"-160</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-160</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.722955038771033" lon="14.480311218649149">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-161</name>
+      <cmt>OE/OO-248 "Wasserklotz"-161</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-161</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.722913967445493" lon="14.480888228863478">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-162</name>
+      <cmt>OE/OO-248 "Wasserklotz"-162</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-162</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.722639041021466" lon="14.4810891430825">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-163</name>
+      <cmt>OE/OO-248 "Wasserklotz"-163</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-163</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.722359756007791" lon="14.48144780471921">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-164</name>
+      <cmt>OE/OO-248 "Wasserklotz"-164</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-164</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.722044261172414" lon="14.481437411159277">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-165</name>
+      <cmt>OE/OO-248 "Wasserklotz"-165</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-165</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.721852231770754" lon="14.481472950428724">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-166</name>
+      <cmt>OE/OO-248 "Wasserklotz"-166</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-166</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.721548639237881" lon="14.481336744502187">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-167</name>
+      <cmt>OE/OO-248 "Wasserklotz"-167</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-167</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.721310760825872" lon="14.481339426711202">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-168</name>
+      <cmt>OE/OO-248 "Wasserklotz"-168</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-168</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.721098028123379" lon="14.48123381473124">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-169</name>
+      <cmt>OE/OO-248 "Wasserklotz"-169</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-169</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="47.721096016466618" lon="14.481234317645431">
+      <time>2020-08-10T14:41:27Z</time>
+      <name>OE/OO-248 "Wasserklotz"-170</name>
+      <cmt>OE/OO-248 "Wasserklotz"-170</cmt>
+      <desc>OE/OO-248 "Wasserklotz"-170</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+  </rte>
+
+</gpx>
