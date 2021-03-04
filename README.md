@@ -1,7 +1,7 @@
 SOTA GPS Tracks
 ===============
 
-Copyright © 2020 Alexander Entinger, [OE5LXR](https://oe5lxr.at/). All rights reserved.
+Copyright © 2020-2021 Alexander Entinger, [OE5LXR](https://oe5lxr.at/). All rights reserved.
 
 This repository contains recorded GPS tracks ([*.gpx](https://en.wikipedia.org/wiki/GPS_Exchange_Format)) of tours to SOTA summits.
 
