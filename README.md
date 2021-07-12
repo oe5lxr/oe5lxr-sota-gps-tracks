@@ -1,3 +1,4 @@
+<a href="https://oe5lxr.at/"><img align="right" src="https://github.com/oe5lxr/.github/raw/main/logo/oe5lxr-mountain-goat-horizontal.png" width="12%"></a>
 SOTA GPS Tracks
 ===============
 
